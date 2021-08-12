@@ -4,4 +4,4 @@
 #Ignore .py
 .py
 .env
-/Instructions/code/api_keys.py
+api_keys.py
