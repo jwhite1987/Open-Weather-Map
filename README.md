@@ -26,8 +26,6 @@ The second requirement is to run linear regression on each relationship. This ti
 
 * Create a heat map that displays the humidity for every city from Part I.
 
-  ![heatmap](images/heatmap.png)
-
 * Narrow down the DataFrame to find your ideal weather condition. For example:
 
   * A max temperature lower than 80 degrees but higher than 70.
@@ -41,5 +39,3 @@ The second requirement is to run linear regression on each relationship. This ti
 * Using Google Places API to find the first hotel for each city located within 5000 meters of your coordinates.
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
-
-  ![hotel map](Images/hotel_map.png)
