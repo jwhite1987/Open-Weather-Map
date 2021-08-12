@@ -2,6 +2,6 @@
 .DS_store
 
 #Ignore .py
-.py
+*.py
 .env
-api_keys.py
+*api_keys.py
