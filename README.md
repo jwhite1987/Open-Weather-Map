@@ -42,4 +42,4 @@ The second requirement is to run linear regression on each relationship. This ti
 
 * Plot the hotels on top of the humidity heatmap with each pin containing the **Hotel Name**, **City**, and **Country**.
 
-  ![hotel map](/images/hotel_map.png)
+  ![hotel map](Images/hotel_map.png)
