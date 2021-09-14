@@ -6,3 +6,4 @@
 .env
 *api_keys.py
 *.py[cod]
+*api_keys.py
