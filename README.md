@@ -31,23 +31,23 @@
 - Google Places API
 
 ## Screenshots
-![image](/Images/Hotel_Map.png)
+![image](/images/Hotel_Map.png)
 
-![image](/Images/latitude_vs_cloudiness.png)
+![image](/images/latitude_vs_cloudiness.png)
 
-![image](/Images/latitude_vs_humidity.png)
+![image](/images/latitude_vs_humidity.png)
 
-![image](/Images/latitude_vs_temp.png)
+![image](/images/latitude_vs_temp.png)
 
-![image](/Images/latitude_vs_windspeed.png)
+![image](/images/latitude_vs_windspeed.png)
 
-![image](/Images/northern_cloudiness_latitude.png)
+![image](/images/northern_cloudiness_latitude.png)
 
-![image](/Images/northern_humidity_latitude.png)
+![image](/images/northern_humidity_latitude.png)
 
-![image](/Images/northern_temp_latitude.png)
+![image](/images/northern_temp_latitude.png)
 
-![image](/Images/northern_windspeed_latitude.png)
+![image](/images/northern_windspeed_latitude.png)
 
 ## Links
 - [JWhiteAnalytics.com](https://jwhiteanalytics.com)
