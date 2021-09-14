@@ -1,4 +1,4 @@
-# `Climate Analysis`
+# `Open Weather Map API`
 
 ## Project Description
 
