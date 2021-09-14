@@ -5,3 +5,4 @@
 *.py~
 .env
 *api_keys.py
+*.py[cod]
